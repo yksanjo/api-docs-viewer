@@ -1,5 +1,12 @@
 # api-docs-viewer
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/api-docs-viewer/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/api-docs-viewer/actions)
+![License](https://img.shields.io/github/license/yksanjo/api-docs-viewer)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/api-docs-viewer)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/api-docs-viewer)
+
 ## Detailed Description
 
 api-docs-viewer is maintained as an industry-grade software project with production-ready engineering practices.  
